@@ -10,3 +10,4 @@ weatherbot.py - это уникальный бот telegram, созданный 
 Сделайте второй шаг также с AIRVISUAL
 Готово! Запустите бота двойным кликом
 Версия python 3.13!!
+необходимые зависимости: telegram bot(v22), requests, dotenv
