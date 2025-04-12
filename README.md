@@ -9,4 +9,4 @@ weatherbot.py - это уникальный бот telegram, созданный 
 Вставьте этот API ключ в OPENWEATHER_API_KEY
 Сделайте второй шаг также с AIRVISUAL
 Готово! Запустите бота двойным кликом
-Версия puthon 3.13!!
+Версия python 3.13!!
